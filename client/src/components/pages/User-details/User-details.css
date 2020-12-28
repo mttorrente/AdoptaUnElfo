@@ -1,0 +1,15 @@
+.background {
+    margin: 0;
+    background: url('https://res.cloudinary.com/loretoavoces/image/upload/v1608739669/fotos-navidad/willian-justen-de-vasconcellos-t4hA-zCALUQ-unsplash_hudsgz.jpg');
+}
+
+.details-container {
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.details-card-img {
+    width: 100%;
+    object-fit: cover;
+    filter: grayscale(50%);
+}

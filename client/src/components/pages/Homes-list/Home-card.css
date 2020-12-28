@@ -1,0 +1,9 @@
+.home-card-title {
+    color: #A80C1E;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+.home-card-img {
+    filter: grayscale(50%);
+}

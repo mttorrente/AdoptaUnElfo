@@ -1,0 +1,28 @@
+.register-button {
+    background-color: #00bb2d;
+    color: black;
+}
+
+.register-button:hover {
+    background-color: #1a8633;
+}
+
+.login {
+    margin-top: 100px;
+    color: white;
+}
+
+.login h2 {
+    text-align: center;
+}
+
+.player-wrapper {
+    position: relative;
+    padding-top: 56.25%
+}
+
+.react-player {
+    position: absolute;
+    top: 0;
+    left: 0;
+}

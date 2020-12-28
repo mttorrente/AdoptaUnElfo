@@ -1,0 +1,13 @@
+.fav-button{
+    background-color:rgb(153, 150, 150, 0.5);
+    border:0;
+    border-radius: 100px;  
+}
+
+.fav-button:hover{
+     background-color:rgb(153, 150, 150, 0.5);
+}
+
+.fav {
+     background-color:rgb(153, 150, 150, 0.5);
+}

@@ -1,0 +1,53 @@
+.main {
+    margin: 0;
+    background: url('https://res.cloudinary.com/loretoavoces/image/upload/v1608739669/fotos-navidad/willian-justen-de-vasconcellos-t4hA-zCALUQ-unsplash_hudsgz.jpg');
+}
+
+.card-profile {
+    margin-top: 50px;
+}
+
+.profileImage {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.link-buttons {
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+
+.lined-thick {
+    align-self: center;
+    background: transparent;
+    transition: all .5s ease;
+    color: #A80C1E;
+    font-size: 18px;
+    font-weight: bold;
+    margin-right: 20px;
+    outline: none;
+    box-shadow: 20px 38px 34px -26px hsla(0, 0%, 0%, .2);
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+}
+
+.lined-thick:hover {
+    box-shadow: 2px 8px 4px -6px hsla(0, 0%, 0%, .3);
+    border: solid 7px #A80C1E;
+    color: #A80C1E;
+}
+
+.button-profile {
+    margin-right: 10px;
+}
+
+/* .player-wrapper {
+    position: relative;
+    padding-top: 56.25%
+}
+
+.react-player {
+    position: absolute;
+    top: 0;
+    left: 0;
+} */
