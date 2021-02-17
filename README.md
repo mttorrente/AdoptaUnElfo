@@ -1,6 +1,6 @@
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 # Adoptaunelfo_
-Adoptaunelfo_ is an application designed for all those people without Christmas dinner because of the covid. You can login as an elf looking for a dinner or as an admin looking for an elf to adopt.
+![pc-elfo-v2](https://user-images.githubusercontent.com/67802072/108232349-f8bf5100-7142-11eb-9d03-cf84116d62c0.jpg)
 
 ## Developers 
 * Loreto Álvarez Voces
