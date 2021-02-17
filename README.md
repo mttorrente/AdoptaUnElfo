@@ -7,7 +7,7 @@ Adoptaunelfo_ is an application designed for all those people without Christmas 
 * Teresa Torrente
 * 
 ## Description
-Adoptaunelfo_ is an application designed for all those people without Christmas dinner because of the covid. You can login as an elf looking for a dinner or as an admin looking for an elf to adopt.
+Adoptaunelfo_ is __Single Page Application__ designed for all those people without Christmas dinner because of the covid. It is a completely private website, only accessible through previous registration, to which you can access under two different roles (__HOST__ or __ELF__), each of which can perform different tasks. You can login as an Elf looking for a dinner or as a Host looking for an Elf to adopt.
 
 <video controls preload='metadata' onclick='(function(el){ if(el.paused) el.play(); else el.pause() })(this)'>
   <source src='https://cdn.com/video/clouds.mp4' type='video/mp4; codecs="avc1.42E01E, mp4a.40.2"'>
