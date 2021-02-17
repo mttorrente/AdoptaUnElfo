@@ -29,8 +29,8 @@ AdoptaUnElfo_ is a __Single Page Application__ designed for all those people wit
   * Nodemailer
  
 ## How to use 
-You can login as an elf or as an admin: 
-* Admin: User: loreto | Password: loretoalvarez
+You can login as a Host or as an Elf: 
+* Host: User: loreto | Password: loretoalvarez
 * Elf: User: sara | Password: teresatorrente
 
 ## Acknowledgements
