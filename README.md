@@ -1,4 +1,3 @@
-![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 # Adoptaunelfo_
 ![pc-elfo-v2](https://user-images.githubusercontent.com/67802072/108232349-f8bf5100-7142-11eb-9d03-cf84116d62c0.jpg)
 
@@ -37,3 +36,4 @@ You can login as an elf or as an admin:
 ## Acknowledgements
   * Product Owner: Jon Arechalde
   * Lead Instructor: Germán Alvarez
+![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
